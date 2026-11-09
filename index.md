@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Darko Si Naga](ebook/DarkoSiNaga.pdf) - Priya (2024)
 4. [Tabuhan Istimewa](ebook/TabuhanIstimewa.pdf) - Evelline (2024)
 5. [Semut yang Sibuk](ebook/SemutyangSibuk.pdf) - Deepa (2024)
+6. [Menghitung](ebook/Menghitung.pdf) - Galsworthy (2024)
 ---
 *Powered by GitHub Pages*
