@@ -1,4 +1,6 @@
 # Digital Library
+Nama: Nadia Az Zahra Raymondo
+NIM: 1304124120016 
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
@@ -12,5 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Di Mana Gogo](ebook/DiMana.pdf) - Soumya (2024)
 9. [Rumah](ebook/Rumah.pdf) - Meth (2024)
 10. [Dunia Rahasia Sam](ebook/DuniaRahasiaSam.pdf) - Hari (2024)
+11. [Rangkuman UGC](ebook/RangkumanUGC.pdf) - Nadia (2026)
 ---
 *Powered by GitHub Pages*
