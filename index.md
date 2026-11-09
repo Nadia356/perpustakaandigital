@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Menghitung](ebook/Menghitung.pdf) - Galsworthy (2024)
 7. [Ke Mana Monster Sungai Mengembara](ebook/KeManaMonsterSungaiMengembara.pdf) - Khoem (2024)
 8. [Di Mana Gogo](ebook/DiMana.pdf) - Soumya (2024)
+9. [Rumah](ebook/Rumah.pdf) - Meth (2024)
 ---
 *Powered by GitHub Pages*
